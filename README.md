@@ -1,5 +1,5 @@
 # Data Analytics Portfolio
-About me:\
+## About me:\
 My name is Jacob Van Der Vaart. I have a background in biochemistry and have worked in various laboratory research roles. As a scientist, my favorite part of the job was always analyzing the data and creating interesting and insightful visuals. This passion for data analysis inspired me to get my master's of public health (MPH) degree in epidemiology. As an epidemiologist, I learned to analyze data, design experiments, and critically appraise published research. I have also expanded on what I learned and my degree and completed the Google data analytics certificate. I am excited to work in the world of analytics and improve health outcomes.
 ## Projects
 
@@ -11,3 +11,4 @@ The social determinants of health data were sourced from the [Agency for Healthc
 **Code/Dashboard:**\
 [R code](https://github.com/jacob-vandervaart/US-Life-Expectancy-and-Social-Determinants-of-Health/blob/6122e3d56add058391283da00a510298ac02b063/life_expenctancy_analysis.R)\
 [Tableau Dashboard](https://public.tableau.com/views/USLifeExpectancyandSocialDeterminantsofHealth20102015/Measures?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
