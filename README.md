@@ -9,5 +9,5 @@ In this project I explored the correlation of life expectancy and different soci
 The life expectancy data was sourced from the [CDC](https://archive.cdc.gov/#/details?q=life%20expectancy&start=0&rows=10&url=https://www.cdc.gov/nchs/data-visualization/life-expectancy/index.html).\
 The social determinants of health were sourced from the [Agency for Healthcare Research and Quality](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)\
 **Code/Dashboard:**\
-[R code](https://github.com/jacob-vandervaart/US-Life-Expectancy-and-Social-Determinants-of-Health/blob/6122e3d56add058391283da00a510298ac02b063/life_expenctancy_analysis.R)
+[R code](https://github.com/jacob-vandervaart/US-Life-Expectancy-and-Social-Determinants-of-Health/blob/6122e3d56add058391283da00a510298ac02b063/life_expenctancy_analysis.R)\
 [Tableau Dashboard](https://public.tableau.com/views/USLifeExpectancyandSocialDeterminantsofHealth20102015/Measures?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
