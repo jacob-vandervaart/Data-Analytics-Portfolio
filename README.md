@@ -13,8 +13,7 @@ The social determinants of health data were sourced from the [Agency for Healthc
 [Tableau Dashboard](https://public.tableau.com/views/USLifeExpectancyandSocialDeterminantsofHealth20102015/Measures?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Medicare Part D Drug Spending Analysis (2018-2022)
-In this project, I analyzed Medicare Part D drug spending trends from 2018 to 2022. The focus was on cost increases, the impact of manufacturer competition, and drug categories with the highest price growth.
-
+In this project, I analyzed Medicare Part D drug spending trends from 2018 to 2022. The focus was on cost increases. I analyzed the effects of manufacturer competition and drug category. The analysis involved joins, common table expressions, and subquieries. 
 **Data sources:**  
 The Medicare Part D spending data and drug classification data were sourced from the [CMS](https://data.cms.gov/).  
 
