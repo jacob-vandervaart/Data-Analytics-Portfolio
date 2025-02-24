@@ -19,5 +19,5 @@ In this project, I analyzed Medicare Part D drug spending trends from 2018 to 20
 The Medicare Part D spending data and drug classification data were sourced from the [CMS](https://data.cms.gov/).  
 
 **Code/Dashboard:**\
-[SQL Code](https://github.com/jacob-vandervaart/Medicare-Part-D/blob/main/Medicare%20part%20D%20cost.sql)
+[SQL Code](https://github.com/jacob-vandervaart/Medicare-Part-D/blob/main/Medicare%20part%20D%20cost.sql) \
 [Tableau Dashboard](https://public.tableau.com/views/MedicarePartD_17404360207890/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
