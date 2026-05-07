@@ -1,6 +1,8 @@
 # Data Analytics Portfolio
 ## About me:
-My name is Jacob Van Der Vaart. I have a background in biochemistry and have worked in various laboratory research roles. As a scientist, my favorite part of the job was always analyzing the data and creating interesting and insightful visuals. This passion for data analysis inspired me to get my master's of public health (MPH) degree in epidemiology. As an epidemiologist, I learned to analyze data, design experiments, and critically appraise published research. I have also expanded on what I learned and my degree and completed the Google data analytics certificate. I am excited to work in the world of analytics and improve health outcomes.
+## Jacob Van Der Vaart
+### Epidemiologist | Data Visualization Specialist
+ I am an epidemiologist who is passionate about data analysis and visualization. My favorite aspect of my previous experience as a scientist was analyzing the data and creating interesting and insightful visuals. I now use this passion to look at the places we live and the impact they have on our health. I specialize in translating complex scientific datasets into insightful visuals that drive better city design and public health outcomes.
 ## Projects
 
 ### Life Expectancy in the US and Social Determinants of Health
