@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
+# Jacob Van Der Vaart
 ## About me:
-## Jacob Van Der Vaart
 ### Epidemiologist | Data Visualization Specialist
  I am an epidemiologist who is passionate about data analysis and visualization. My favorite aspect of my previous experience as a scientist was analyzing the data and creating interesting and insightful visuals. I now use this passion to look at the places we live and the impact they have on our health. I specialize in translating complex scientific datasets into insightful visuals that drive better city design and public health outcomes.
 ## Projects
